@@ -109,7 +109,7 @@ const Page = () => {
   return (
     <Card ref={cardRef} className='max-w-md'>
       <CardHeader>
-        <CardTitle>Dynamic</CardTitle>
+        <CardTitle>Restricte area</CardTitle>
       </CardHeader>
       <CardContent className='space-y-6 text-sm'>
         <img
