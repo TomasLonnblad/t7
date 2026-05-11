@@ -121,8 +121,7 @@ const Page = () => {
           height={500}
         />
         <p>
-          Experience interactive depth and motion with this sleek 3D hover effect. Move your cursor to see it come
-          alive!
+     Restricte area
         </p>
       </CardContent>
     </Card>
